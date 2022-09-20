@@ -28,6 +28,7 @@ export default function studentData() {
       email: 'lblazynski3@purevolume.com',
       gender: 'Male',
     },
+    
     {
       id: 5,
       firstName: 'Bat',
